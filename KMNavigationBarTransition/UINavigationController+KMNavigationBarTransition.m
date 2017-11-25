@@ -62,7 +62,7 @@
 }
 
 - (UIColor *)km_containerViewBackgroundColor {
-    return [UIColor whiteColor];
+    return [UIColor clearColor];
 }
 
 - (void)km_pushViewController:(UIViewController *)viewController animated:(BOOL)animated {
